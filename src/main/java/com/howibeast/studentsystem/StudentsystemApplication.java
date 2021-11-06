@@ -1,4 +1,4 @@
-package com.arjuncodes.studentsystem;
+package com.howibeast.studentsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,6 @@
-package com.arjuncodes.studentsystem.service;
+package com.howibeast.studentsystem.service;
 
-import com.arjuncodes.studentsystem.model.Student;
+import com.howibeast.studentsystem.model.Student;
 
 import java.util.List;
 

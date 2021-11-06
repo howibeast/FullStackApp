@@ -1,4 +1,4 @@
-package com.arjuncodes.studentsystem.model;
+package com.howibeast.studentsystem.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

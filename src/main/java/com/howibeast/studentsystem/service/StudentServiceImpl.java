@@ -1,7 +1,7 @@
-package com.arjuncodes.studentsystem.service;
+package com.howibeast.studentsystem.service;
 
-import com.arjuncodes.studentsystem.model.Student;
-import com.arjuncodes.studentsystem.repository.StudentRepository;
+import com.howibeast.studentsystem.model.Student;
+import com.howibeast.studentsystem.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
